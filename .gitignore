@@ -1,0 +1,15 @@
+# Data
+data/raw/*.csv
+data/raw/*.json
+
+# Models
+models/*.pkl
+models/*.keras
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.env
+venv/
